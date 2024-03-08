@@ -5,5 +5,5 @@ What relationship exists between price and product quantity sold?  Furthermore, 
 
 Data Sources
 [Dataset creator's name]. ([Year &amp; Month of dataset creation]). [Name of the dataset], [Version of the dataset]. Retrieved [Date Retrieved] from [URL of the dataset].
-## Strategy 
-I will introduce a new column to the right of each existing column, incorporating the requisite fixed data within the designated space.
+## Tools 
+-Python
