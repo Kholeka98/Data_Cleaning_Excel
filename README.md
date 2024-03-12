@@ -39,7 +39,7 @@ We utilized data visualization to comprehend features by creating histograms and
 - 23.73% from Kolkata, and   
 - 23.85% from Mumbai.     
 
-2. The scatterplot revealed no explicit relationship between the price of products and the number of products sold.
+2. The scatterplot revealed no explicit relationship between the price of products and the number of products sold over different locations.
    
-3. It was inferred that overall  skincare generates the highest revenue, accounting for 41.83 % of the total revenue.
+3. It was inferred that overall, skincare generates the highest revenue, accounting for 41.83 % of the total revenue.
 
