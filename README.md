@@ -19,8 +19,8 @@ In the initial data understanding step, we performed the following tasks:
 - Data Loading and Inspection.
 - Determined the total number of observations and fields.
 - Analyzed the statistical characteristics of the numeric columns.
-- I also determined the data types of the columns.
-- I calculated the total null values in the dataset.
+- Determined the data types of the columns.
+- Calculated the total number of  null values.
 
  ### Data Preparation
  As part of preparing our dataset, we executed the following tasks:
@@ -28,4 +28,18 @@ In the initial data understanding step, we performed the following tasks:
  - Identified and removed duplicates rows
  - Renamed columns and included units  where necessary.
 
-###
+### Data Visualizations
+We utilized data visualization to comprehend features by creating histograms and scatterplots, aiding in addressing the specified inquiry.
+
+### Results
+1. Based on the analysis, we observe that the revenue generated from product sales is distributed as follows:
+- 17.76% from Bangalore,
+- 20.62% from Chennai,    
+- 14.03% from Delhi,         
+- 23.73% from Kolkata, and   
+- 23.85% from Mumbai.     
+
+2. The scatterplot revealed no explicit relationship between the price of products and the number of products sold.
+   
+3. It was inferred that  skincare generates the highest revenue, accounting for 41.83 % of the total revenue.
+
