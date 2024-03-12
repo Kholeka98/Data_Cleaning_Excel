@@ -15,7 +15,7 @@ Vehicle dataset URL: (https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset
 Python
 
 ### Data Understanding
-In the initial data understanding, we performed the following tasks:
+In the initial data understanding stap, we performed the following tasks:
 - Data Loading and Inspection.
 - Determined the total number of observations and fields.
 - Analyzed the statistical characteristics of the numeric columns.
