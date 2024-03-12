@@ -41,5 +41,5 @@ We utilized data visualization to comprehend features by creating histograms and
 
 2. The scatterplot revealed no explicit relationship between the price of products and the number of products sold.
    
-3. It was inferred that  skincare generates the highest revenue, accounting for 41.83 % of the total revenue.
+3. It was inferred that overall  skincare generates the highest revenue, accounting for 41.83 % of the total revenue.
 
