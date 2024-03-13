@@ -25,7 +25,7 @@ In the initial data understanding step, we performed the following tasks:
  ### Data Preparation
  As part of preparing our dataset, we executed the following tasks:
  - Dropped irrelevant columns and rows to avoid cleaning colums that are irrelevant to our analysis
- - Identified and removed duplicates rows
+ - Identified and removed duplicate rows
  - Renamed columns and included units  where necessary.
 
 ### Data Visualizations
