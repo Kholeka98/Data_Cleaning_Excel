@@ -9,7 +9,7 @@ The goal of this project is to conduct exploratory data analysis on the supply c
 
 
 ### Data Source
-Vehicle dataset URL: (https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
+Supply chain dataset URL:(https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset)
 
 ### Tools
 Python
