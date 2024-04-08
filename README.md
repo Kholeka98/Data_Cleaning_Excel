@@ -1,12 +1,7 @@
 # Exploratory Data Analysis
 
-### Project Overview 
-The goal of this project is to conduct exploratory data analysis on the supply chain dataset and answer the following questions:
-
-- What is the revenue generated from each geographical location?
-- What relationship exists between price and product quantity sold?
-- Which product category generates the highest revenue?
-
+### Project Objective 
+The primary objective of this project is to provide actionable insights to the marketing team regarding sales performance across various locations and product types. By addressing key questions such as revenue generation per location, the correlation between price and product sales across different product types, and identifying the highest revenue-generating product types, this initiative aims to empower the marketing team to optimize revenue streams effectively. Ultimately, the project seeks to facilitate informed decision-making and the formulation of targeted strategies to enhance overall sales performance and maximize revenue potential.
 
 ### Data Source
 Supply chain dataset URL:(https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset)
@@ -24,12 +19,12 @@ In the initial data understanding step, we performed the following tasks:
 
  ### Data Preparation
  As part of preparing our dataset, we executed the following tasks:
- - Dropped irrelevant columns and rows to avoid cleaning colums that are irrelevant to our analysis
- - Identified and removed duplicate rows
+ - Dropped irrelevant columns and rows to avoid cleaning columns that are irrelevant to our analysis.
+ - Identified and removed duplicate rows.
  - Renamed columns and included units  where necessary.
 
 ### Data Visualizations
-We utilized data visualization to comprehend features by creating histograms and scatterplots, aiding in addressing the specified inquiry.
+We utilized data visualization to comprehend features by creating bargraphs and scatterplots, and boxplots aiding in addressing the specified inquiry. 
 
 ### Results
 1. Based on the analysis, we observe that the revenue generated from product sales is distributed as follows:
@@ -39,7 +34,9 @@ We utilized data visualization to comprehend features by creating histograms and
 - 23.73% from Kolkata, and   
 - 23.85% from Mumbai.     
 
-2. The scatterplot revealed no explicit relationship between the price of products and the number of products sold over different locations.
+2. Upon analyzing the relationship between the number of goods sold and the price of haircare and skincare products, it is evident that there is no clear correlation. This suggests that the number of goods sold is not significantly influenced by the price of these products.
+
+Contrastingly, when examining cosmetics products, a clear negative relationship between sales volume and pricing emerges. Specifically, as the price of cosmetics increases, the corresponding number of goods sold decreases. This inverse correlation implies that higher pricing negatively impacts the demand for cosmetics products, leading to reduced sales volumgory. These insights could inform pricing strategies and marketing efforts aimed at maximizing sales in the respective product categories.
    
 3. It was inferred that overall, skincare generates the highest revenue, accounting for 41.83 % of the total revenue.
 
