@@ -35,7 +35,6 @@ We utilized data visualization to comprehend features by creating bargraphs and 
 - 23.85% from Mumbai.     
 
 2. Upon analyzing the relationship between the number of goods sold and the price of haircare and skincare products, it is evident that there is no clear correlation. This suggests that the number of goods sold is not significantly influenced by the price of these products.
-
 Contrastingly, when examining cosmetics products, a clear negative relationship between sales volume and pricing emerges. Specifically, as the price of cosmetics increases, the corresponding number of goods sold decreases. This inverse correlation implies that higher pricing negatively impacts the demand for cosmetics products, leading to reduced sales volumgory. These insights could inform pricing strategies and marketing efforts aimed at maximizing sales in the respective product categories.
    
 3. It was inferred that overall, skincare generates the highest revenue, accounting for 41.83 % of the total revenue.
